@@ -1,0 +1,61 @@
+QPushButton#LoginBtn
+{
+    border-top-right-radius:2;
+    border-radius: 10px;
+    background-color: rgb(0, 170, 255);
+    font:25px blod '黑体';
+    color: rgb(0, 0, 0);
+}
+QPushButton#LoginBtn:hover
+{
+    border-top-right-radius:2;
+    border-radius: 10px;
+    background-color: rgb(50, 120, 255);
+    font:25px blod '黑体';
+    color: rgb(255, 255, 255);
+}
+QPushButton#LoginBtn:pressed
+{
+    border-top-right-radius:2;
+    border-radius: 10px;
+    background-color: rgb(50, 70, 255);
+    font:25px blod '黑体';
+    color: rgb(255, 255, 255);
+}
+
+QPushButton#ExitBtn
+{
+    border-top-right-radius:2;
+    background-color: transparent;
+    font:25px blod '等线';
+    color: rgb(0, 0, 0);
+}
+QPushButton#ExitBtn:hover
+{
+    border-top-right-radius:2;
+    background-color: rgb(255, 0, 0);
+    font:25px blod '等线';
+    color: rgb(255, 255, 255);
+}
+QPushButton#ExitBtn:pressed
+{
+    border-top-right-radius:2;
+    background-color: rgb(170, 0, 0);
+    font:25px blod '等线';
+    color: rgb(255, 255, 255);
+}
+
+QLineEdit
+{
+    border:none;
+    background-color: rgba(0, 170, 255,100);
+    border-radius: 10px;
+    font:20px blod '黑体';
+}
+    
+QLineEdit:hover
+{
+    background-color:rgba(0, 170, 255,150);
+    border-radius: 10px;
+    font:20px blod '黑体';
+}

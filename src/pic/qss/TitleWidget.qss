@@ -1,0 +1,128 @@
+#TitleWidget
+{
+    min-height:30px;
+    max-height:30px;
+}
+
+#sysClose 
+{
+	border-top-right-radius:2;
+	background-color: transparent;
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+#sysClose:hover 
+{
+	border-top-right-radius:2;
+	background-color: rgb(255, 0, 0);
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+#sysClose:pressed
+{
+	border-top-right-radius:2;
+	background-color: rgb(170, 0, 0);
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+
+#sysMin
+{
+    /*border-image: url(:/res/pic/sysBtn/sysbtn_min_normal.png);*/
+    border-top-right-radius:2;
+	background-color: transparent;
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+#sysMin:hover
+{
+    /*border-image: url(:/res/pic/sysBtn/sysbtn_min_hover.png);*/
+    border-top-right-radius:2;
+	background-color: rgb(0, 170, 255);
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+#sysMin:pressed
+{
+    /*border-image: url(:/res/pic/sysBtn/sysbtn_min_down.png);*/
+    border-top-right-radius:2;
+	background-color: rgb(0, 85, 255);
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30x;
+}
+
+#sysMax
+{
+    /*border-image: url(:/res/pic/sysBtn/sysbtn_min_normal.png);*/
+    border-top-right-radius:2;
+	background-color: transparent;
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+#sysMax:hover
+{
+    /*border-image: url(:/res/pic/sysBtn/sysbtn_min_hover.png);*/
+    border-top-right-radius:2;
+	background-color: rgb(0, 170, 255);
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30px;
+}
+#sysMax:pressed
+{
+    /*border-image: url(:/res/pic/sysBtn/sysbtn_min_down.png);*/
+    border-top-right-radius:2;
+	background-color: rgb(0, 85, 255);
+	font:18px blod "等线";
+	color: rgb(255, 255, 255);
+    min-width:30px;
+    max-width:30px;
+    min-height:30px;
+    max-height:30x;
+}
+
+#TitleName
+{
+    color:white;
+    font:18px "等线";
+    min-width:92px;
+}
+
+#Titleicon
+{
+    min-width:24px;
+    max-width:24px;
+    min-height:24px;
+    max-height:24px;
+}
