@@ -9,6 +9,11 @@ CoreArithmetic::CoreArithmetic(QObject *parent) : QObject(parent)
 
 }
 
+/**
+* @brief         初始化Python模块
+* @param         None
+* @return        None
+*/
 void CoreArithmetic::init()
 {
     //Py_SetPythonHome(const_cast<wchar_t*>(L"Python36"));
